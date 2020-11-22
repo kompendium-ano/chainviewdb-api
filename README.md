@@ -1,2 +1,2 @@
 # chainviewdb-api
-Public API access for the Chainview service
+Swagger spec to access the Chainview API service
